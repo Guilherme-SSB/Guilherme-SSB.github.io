@@ -40,6 +40,11 @@ Some results
 
    04 - Butterworth Lowpass Filter
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Gaussian Filter:
+
+   05 - Gaussian Lowpass Filter
 
 
 Indices and tables
